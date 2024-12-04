@@ -4,12 +4,12 @@ I'm a passionate Back-end | Ecommerce Website expert who focuses on Django, Lara
 I'm also a strong contributor to product development, from idea generation to product maintenance.
 
 My expertise includes:
- -Back-end with Django, Laravel, ASP.NET, REST <br>
- -Databases with MySQL, Oracle, PostgreSQL, and MongoDB <br>
- -Front end with React, Vue <br>
- -Cloud technologies such as AWS <br>
+ - Front-end: HTML, CSS, Bootstrap, TailwindCSS, JavaScript, React.js, Angular/Angular.js, Vue.js, Next.js <br/>
+ - Back-end with JavaScript, TypeScript, Node.js, Express.js, Nest.js, PrismaORM, Python, Django, PHP, Laravel, ASP.NET, REST, Java, Spring Boot <br>
+ - Databases with MySQL, Oracle, PostgreSQL, and NoSQL & MongoDB <br>
+ - Cloud technologies such as AWS <br>
 
-Reach me out: [Here](mailto:applymeta6@gmail.com)
+Reach me out: [Here](mailto:lauralhuillier90@gmail.com)
 
 ## :hammer_and_wrench: My Main Skills are ...  
   <div style="display: flex; align-items: flex-start; align: center">
