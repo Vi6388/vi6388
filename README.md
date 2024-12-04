@@ -1,5 +1,5 @@
 <h1 align="center">Hi, How are you? Thank you for visiting my GitHub link.</h1>
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ApplyCode.ApplyCode&left_color=royalblue&right_color=black" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Vi6388.vi6388&left_color=royalblue&right_color=black" />
 I'm a passionate Back-end | Ecommerce Website expert who focuses on Django, Laravel, and Shopify.
 I'm also a strong contributor to product development, from idea generation to product maintenance.
 
@@ -102,8 +102,8 @@ Reach me out: [Here](mailto:lauralhuillier90@gmail.com)
 
 <br/>
 <div display="flex">
-  <img width="420px" height="180px" src="https://github-readme-streak-stats.herokuapp.com/?user=ApplyCode&theme=onedark" />
- <img align="right" alt="GIF" src="https://github.com/galileo0106/galileo0106/blob/main/code.gif?raw=true" width="355" height="180" />
+  <img width="420px" height="180px" src="https://github-readme-streak-stats.herokuapp.com/?user=Vi6388&theme=onedark" />
+  <img align="right" alt="GIF" src="https://github.com/galileo0106/galileo0106/blob/main/code.gif?raw=true" width="355" height="180" />
 </div>
 
 
