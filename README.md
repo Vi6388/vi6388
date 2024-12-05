@@ -1,5 +1,5 @@
 <h1 align="center">Hi, How are you? Thank you for visiting my GitHub link.</h1>
-I have over 7+ years of experience developing functionally aesthetic user interfaces and full-stack web apps. I enjoy using HTML5, CSS3, SCSS, JavaScript, Angular, and React to build beautifully responsive UIs that provide a fantastic user experience. I have spent time developing front-end web applications at Capital One Bank, Chorus.ai, and ZoomInfo.
+I have over 8+ years of experience developing functionally aesthetic user interfaces and full-stack web apps. I enjoy using HTML5, CSS3, SCSS, JavaScript, Angular, and React to build beautifully responsive UIs that provide a fantastic user experience. I have spent time developing front-end web applications at Capital One Bank, Chorus.ai, and ZoomInfo.
 
 My expertise includes:
  - Front-end: HTML, CSS, Bootstrap, TailwindCSS, JavaScript, React.js, Angular/Angular.js, Vue.js, Next.js <br/>
