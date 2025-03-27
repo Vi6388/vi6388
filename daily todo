@@ -1,0 +1,46 @@
+3/27
+1. change "Locked" text to lock icon on Script page
+2. update layout for Story page
+3. update the UI to make it looks like chatting history
+4. update filters, all the filters should same
+5. change "Episode Locked" to lock icon, before lock, we need check box same as before
+
+3/26
+1. Check: When script mode, we have different navigations: we able to go from universe to script but it is same as director and universe mode
+2. Different play button can't play same time
+3. integrate voice clone endpoint
+4. character can view, can't delete - done
+5. add All filter on Sets page - done
+6. remove Character Personal code on Universe - done
+
+3/25
+1. Dashboard API integration - done
+2. Library page api integration for the project - done
+3. Lock logic implementation for the Cast and Set pages - done
+
+
+3/24
+1. Add Note on Universe page - done
+2. Story View for mobile responsive - done
+3. display a loading bar while the action progresses and the return value is reached - done
+
+
+3/23
+1. update library page layout, extends the video view, check by resizing browser and find suitable one.
+2. set as we can go to library page anytime, separate library with other stages - done
+3. insert validation check:
+  - when user not select any character and going to do other action, show "Choose your character!" alert 
+  - show Next button from the beginning and disable to press before selecting any character
+  - on Set page, if user going to go to next page without selecting any set, show alert: "Choose at least one set!"
+  - if set of the project store is null, disable next button and disable all the behind pages
+  - before user pressing Go To Writers Room the next button should be disable. you can check it if the plot point of the project store is null, disable the next button - done
+4. check original face image size and show uploaded face show to right panel - done
+5. don't show again check box on modal. - done
+
+
+3/22
+1. Integrate Cloths, hairstyle, skin color endpoints and complete tab functionality of Cast page - done
+2. update right show page of Cast page - done
+3. when user press new project on project mode, there should be confirm dialog to ask "Are you Really going to close this project?"- done
+4. update voice tab coz api updated on cast - done
+5. update library page layout, maximize the video view - not done
