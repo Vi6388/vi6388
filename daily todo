@@ -1,9 +1,11 @@
 3/27
-1. change "Locked" text to lock icon on Script page
-2. update layout for Story page
-3. update the UI to make it looks like chatting history
-4. update filters, all the filters should same
-5. change "Episode Locked" to lock icon, before lock, we need check box same as before
+1. change "Locked" text to lock icon on Script page - done
+2. update layout for Story page - done
+3. update the UI to make it looks like chatting history - done
+4. update filters, all the filters should same - done
+5. change "Episode Locked" to lock icon, before lock, we need check box same as before - done
+6. make this selectable and also editable in Story page - done
+7. Add note function is not working as well on Universe page - done
 
 3/26
 1. Check: When script mode, we have different navigations: we able to go from universe to script but it is same as director and universe mode
