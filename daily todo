@@ -1,3 +1,17 @@
+3/31
+1. need some updating on the script page
+ - I want to make extendable and collapsible for the Scenes on script page
+ - need confirmation when deleting the new record on script page
+ - also need stroke for the selected scene or selected shot.
+ - if there is selected scene or shot, can add scene or add shot from the right panel without selecting specific Add shot or Add scene, and break down should work on the selected scene or shot.
+ - and hide unnecessary tabs from the right panel
+2. we need new admin UI to manage assets and also need template management for the director mode
+   this template(already locked characters, sets, and story) should be set on admin page
+   we still have not this kind of page yet
+   and admin page should be used for only administrators. so no need beautiful design but need to be functional
+3. the Story page UI updated, it means the idea generation logic updated
+
+
 3/28
 1. Integrate User Profile endpoint
 2. Update User Profile info on Header
