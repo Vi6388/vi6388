@@ -4,7 +4,7 @@
 3. we don't need Universe page in script mode
 4. in script mode, if we select Characters and Sets, the Script page buttons should be green
 5. remove unnessary things on Forgot Password page
-6. update button style on SignIn/SignUp page
+6. update button style for google sign in button on SignIn/SignUp page
 7. remove status dot in avatar
 
 04/02
