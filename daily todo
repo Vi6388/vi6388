@@ -1,3 +1,12 @@
+04/03
+1. in script mode, we need to go to script page directly here, update that button as Go To Script
+2. there is not "Generate Script" button here, we can add script as manually in this mode
+3. we don't need Universe page in script mode
+4. in script mode, if we select Characters and Sets, the Script page buttons should be green
+5. remove unnessary things on Forgot Password page
+6. update button style on SignIn/SignUp page
+7. remove status dot in avatar
+
 04/02
 1. Update Script page logic
 
