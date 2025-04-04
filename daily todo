@@ -1,3 +1,15 @@
+04/04
+- Script mode test:
+Add Last scene is not working
+lock and go to next stop should go to Script page on Library page
+- Universe mode test
+when creating new project, there should be default selection for convinience
+when creating new project, remove not only project but also remove library on store. and the Cast cash as well
+if the next step is disable. please make the next button as disabled
+when generating script, there should be loading spinner
+when expanding on script page, it should expand as down,
+when generating video, should save the project
+
 04/03
 1. in script mode, we need to go to script page directly here, update that button as Go To Script
 2. there is not "Generate Script" button here, we can add script as manually in this mode
