@@ -1,3 +1,17 @@
+04/08
+- Universe mode test
+when creating new project, there should be default selection for convinience
+if the next step is disable. please make the next button as disabled
+when generating script, there should be loading spinner
+when expanding on script page, it should expand as down
+
+- HubDB project
+
+04/07
+HubDB project
+- created portfolio_project, team_members, reviews, awards
+- connected the current pages with new tables.
+
 04/06
 HubDB Build-Out Instructions for OHi
 description: https://docs.google.com/document/d/1uK1KWdt601jirBgVxdL0nNl-4qlMdbuPKIoJJ3ozOjE/edit?tab=t.0#heading=h.cd8esojfwq8k
