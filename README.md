@@ -1,13 +1,20 @@
 <h1 align="center">Hi, How are you? Thank you for visiting my GitHub link.</h1>
-I have over 8+ years of experience developing functionally aesthetic user interfaces and full-stack web apps. I enjoy using HTML5, CSS3, SCSS, JavaScript, Angular, and React to build beautifully responsive UIs that provide a fantastic user experience. I have spent time developing front-end web applications at Capital One Bank, Chorus.ai, and ZoomInfo.
+Senior Machine Learning Engineer with 10+ years of experience designing and deploying production-scale services and APIs across cloud environments. Expertise in TypeScript and JavaScript, building and containerizing microservices with Node.js, Docker, and Kubernetes. Strong foundation in system design, debugging, and production reliability, complemented by test-driven development and CI/CD pipelines. Brings full-stack expertise to secure authentication and transaction flows.
 
 My expertise includes:
  - Front-end: HTML, CSS, Bootstrap, TailwindCSS, JavaScript, React.js, Angular/Angular.js, Vue.js, Next.js <br/>
  - Back-end with JavaScript, TypeScript, Node.js, Express.js, Nest.js, PrismaORM, Python, Django, PHP, Laravel, ASP.NET, REST, Java, Spring Boot <br>
  - Databases with MySQL, Oracle, PostgreSQL, and NoSQL & MongoDB <br>
  - Cloud technologies such as AWS <br>
-
-Reach me out: [Here](mailto:lauralhuillier90@gmail.com)
+ - Programming Languages: Python, Java, Scala, SQL, JavaScript, TypeScript, Rust • Machine Learning & Deep Learning: PyTorch, TensorFlow, scikit-learn, Transformers, LLM fine-tuning, Generative AI, NLP, Recommendation Systems, RAG <br>
+ - LLM & AI Frameworks: LangChain, LangGraph, Hugging Face, OpenAI APIs <br>
+ - Vector Databases & Search: Pinecone, OpenSearch, Elasticsearch <br>
+ - Data & Streaming: Apache Kafka, Spark, Airflow <br>
+ - MLOps & ML Platforms: MLflow, CI/CD for ML, Model Monitoring, Feature Stores <br>
+ - Cloud & Infrastructure: AWS, Azure, GCP, Docker, Kubernetes, Terraform <br>
+ - Databases: PostgreSQL, MySQL, Redis, NoSQL <br>
+ - APIs & Backend: REST APIs, Microservices, Event-driven architectures, Node.js, OAuth2, Web3 <br>
+ - Security & Identity: WebAuthn, MFA, Cryptography, Key Management • Engineering Fundamentals: System Design, Debugging, Production Reliability <br>
 
 ## :hammer_and_wrench: My Main Skills are ...  
   <div style="display: flex; align-items: flex-start; align: center">
