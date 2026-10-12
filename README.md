@@ -1,5 +1,5 @@
 <h1 align="center">Hi, How are you? Thank you for visiting my GitHub link.</h1>
-Senior Machine Learning Engineer with 10+ years of experience designing and deploying production-scale services and APIs across cloud environments. Expertise in TypeScript and JavaScript, building and containerizing microservices with Node.js, Docker, and Kubernetes. Strong foundation in system design, debugging, and production reliability, complemented by test-driven development and CI/CD pipelines. Brings full-stack expertise to secure authentication and transaction flows.
+Senior Software Engineer with 10+ years of experience designing and deploying production-scale services and APIs across cloud environments. Expertise in TypeScript and JavaScript, building and containerizing microservices with Node.js, Docker, and Kubernetes. Strong foundation in system design, debugging, and production reliability, complemented by test-driven development and CI/CD pipelines. Brings full-stack expertise to secure authentication and transaction flows.
 
 My expertise includes:
  - Front-end: HTML, CSS, Bootstrap, TailwindCSS, JavaScript, React.js, Angular/Angular.js, Vue.js, Next.js <br/>
